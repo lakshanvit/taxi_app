@@ -1,0 +1,14 @@
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\bin\Debug\TaxiApp.exe.config
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\bin\Debug\TaxiApp.exe
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\bin\Debug\TaxiApp.pdb
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.csprojAssemblyReference.cache
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.Properties.Resources.resources
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.csproj.GenerateResource.cache
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.csproj.CoreCompileInputs.cache
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.exe
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.pdb
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.vehicle.resources
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.MainMenu.resources
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.hire.resources
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.rent.resources
+C:\Users\Lakshan\source\repos\TaxiApp\TaxiApp\obj\Debug\TaxiApp.addnewType.resources
